@@ -12,6 +12,8 @@ def mul(a,b):
 def div(a,b):
     return a/b
 
+def mod(a,b):
+    return a%b
 
 def lcm(a,b):
     l = a if a>b else b
